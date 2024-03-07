@@ -1,0 +1,6 @@
+Quart-Discord
+discord.py
+better-ipc
+requests
+uvicorn
+PyMongo
